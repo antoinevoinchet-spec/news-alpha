@@ -20,7 +20,7 @@ The success criteria were frozen before any result existed, and the project was 
 
 ## How it was built
 
-Antoine Voinchet designed and directed the project: the question, the pre-registered rules, the go/no-go criteria, the spending ceilings and each deviation from the plan. The code was written by Claude Code under that direction. All 88 commits of the working repository carry a Claude co-author trailer.
+Antoine Voinchet designed and directed the project: the question, the pre-registered rules, the go/no-go criteria, the spending ceilings and each deviation from the plan. The code was written by Claude Code under that direction. All 88 commits of the working repository carry a Claude co-author trailer. This public repository is a clean copy of that private working repository, so its history starts with a single commit.
 
 The method is what he contributed, and it is visible in the repository:
 
